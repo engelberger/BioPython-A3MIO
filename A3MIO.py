@@ -16,7 +16,7 @@ See the demo at the bottom of the file for details
 
 import Bio.SeqIO
 from Bio.SeqIO.FastaIO import SimpleFastaParser, FastaIterator
-from Bio.Alphabet import single_letter_alphabet
+#from Bio.Alphabet import single_letter_alphabet
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 
